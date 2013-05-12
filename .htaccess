@@ -1,0 +1,7 @@
+<IFModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteRule ^st-1 index.php
+RewriteRule ^st-2 st-2.php
+
+</IFModule>
