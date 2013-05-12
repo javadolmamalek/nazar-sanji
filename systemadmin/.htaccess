@@ -1,0 +1,15 @@
+<IFModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteRule ^group group.php
+RewriteRule ^create create.php
+RewriteRule ^manage manage.php
+RewriteRule ^action action.php
+RewriteRule ^stats stats.php
+RewriteRule ^result result.php
+RewriteRule ^users users.php
+RewriteRule ^setting setting.php
+RewriteRule ^login login.php
+RewriteRule ^home index.php
+
+</IFModule>
