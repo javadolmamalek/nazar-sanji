@@ -1,0 +1,149 @@
+body
+{
+  background-image: url(../../img/back.jpg);
+	text-align:right;
+	direction:rtl;
+	font-family: tahoma;
+	font-size:12px;
+}
+
+A:link, A:visited {
+	COLOR: #fff;
+	text-decoration: none;
+}
+
+A:active, A:hover {
+	COLOR: #ff0000;
+	text-decoration: none;
+}
+
+.button
+{
+	border:1px #000 dashed;
+	color:#000;
+	font-family: tahoma;
+	font-size:12px;
+	padding:2px;
+	background-color:#ccc;
+}
+
+.errorstyle
+{
+	margin-left: auto;
+	margin-right: auto;
+	padding:5px;
+	background:#FFEAEE;
+	border:1px solid #FE494C;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	text-align:center;
+}
+
+.sendstyle
+{
+	margin-left: auto;
+	margin-right: auto;
+	padding:5px;
+	background:#F4FFEA;
+	border:1px solid #C5E87D;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	text-align:center;
+}
+
+.textstyle
+{
+	border:1px #000 dashed;
+	color:#000;
+	font-family: tahoma;
+	font-size:12px;
+	padding:2px;
+}
+
+/* Login Page */
+.loginbackl1
+{
+	margin-left: auto;
+	margin-right: auto;
+	width:510px;
+}
+
+.loginbackl2
+{
+	margin-left: auto;
+	margin-right: auto;
+	width:500px;
+	padding:5px;
+	background:#1763CD;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	color:#fff;
+	text-shadow:1px 1px 1px #000,1px 1px 1px #000;
+}
+
+/* Admin Pages */
+.topback
+{
+	padding:15px;
+	background:#1763CD;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	color:#fff;
+	text-shadow:1px 1px 1px #000,1px 1px 1px #000;
+}
+
+.menuback
+{
+	float: right;
+	width:200px;
+	padding:15px;
+	background:#79A140;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	color:#fff;
+	text-shadow:1px 1px 1px #eee,1px 1px 1px #000;
+}
+
+.titlebackl1
+{
+	float: right;
+	padding-right:10px;
+}
+
+.titlebackl2
+{
+	width:500px;
+	padding:15px;
+	background:#fff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	color:#000;
+}
+
+.titlebackl2 A:link, .titlebackl2 A:visited {
+	COLOR: #ff0000;
+	text-decoration: none;
+}
+
+.titlebackl2 A:active, .titlebackl2 A:hover {
+	COLOR: #0000ff;
+	text-decoration: none;
+}
